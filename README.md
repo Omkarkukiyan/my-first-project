@@ -1,2 +1,2 @@
 # my-first-project
-Learning Github
+Learning Github from udemy 
