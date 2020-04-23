@@ -3,3 +3,5 @@
 Learning Github from udemy. This file was modified locally. 
 
 This line was modified manually during conflict resolution.
+
+New line was added locally.
